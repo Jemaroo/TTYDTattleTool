@@ -21,7 +21,7 @@ and a spreadsheet editor such as excel
 
 5: Edit Tattle Data.xlsx in a spreadsheet editor, adding to the available fields.
       
-Please Note:
+      Please Note:
         
       -Entry Name is mandatory and the program will fail to list the tattle if left empty, note that these are case-sensitive to the game.
 
