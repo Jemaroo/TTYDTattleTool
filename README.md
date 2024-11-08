@@ -1,5 +1,6 @@
 # TTYDTattleTool
 A tool to automatically print tattle data based off of Hero Mode's tattle format
+
 See Hero Mode: https://github.com/Reeds-github/Hero-Mode 
 
 UPDATED v1.0 (10/20/23): First Release
