@@ -23,9 +23,9 @@ and a spreadsheet editor such as excel
       
 Please Note:
         
--Entry Name is mandatory and the program will fail to list the tattle if left empty, note that these are case-sensitive to the game.
+      -Entry Name is mandatory and the program will fail to list the tattle if left empty, note that these are case-sensitive to the game.
 
--Both btl and menu entries for enemies must be added to the spreadsheet, the program doesn't add skipped entries automatically
+      -Both btl and menu entries for enemies must be added to the spreadsheet, the program doesn't add skipped entries automatically
 
 6: Run Run.bat
 
