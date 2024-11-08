@@ -3,6 +3,8 @@ A tool to automatically print tattle data based off of Hero Mode's tattle format
 
 See Hero Mode: https://github.com/Reeds-github/Hero-Mode 
 
+UPDATED v1.1 (11/08/24): Removed some unnecessary library dependencies to reduce file size
+
 UPDATED v1.0 (11/07/24): First Release
 
 =========LATEST USAGE==========
